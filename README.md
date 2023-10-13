@@ -1,7 +1,8 @@
 # EFK - Elastic search ,fluentd ,Kibana
-![kibbana](https://github.com/Sanjo-varghese/EFK/assets/116708794/281b318c-eaab-4acb-8cdd-a417a1c931a7)
-![kibbab2](https://github.com/Sanjo-varghese/EFK/assets/116708794/217a450a-1a92-4c1a-b4ab-3cce47b3691d)
-![kibba 4](https://github.com/Sanjo-varghese/EFK/assets/116708794/5890abc0-b5da-4959-bdd6-5b065081e9e3)
+![kibbana](https://github.com/Sanjo-varghese/EFK-/assets/116708794/90828d54-9caf-4d52-be66-98f39c
+![kibbab2](https://github.com/Sanjo-varghese/EFK-/assets/116708794/cca2d101-8d59-48bf-8087-858930df6628)
+![kibba3](https://github.com/Sanjo-varghese/EFK-/assets/116708794/c8dcddc8-f15f-449d-b4c4-9a625bbb9807)
+b02123)
 
 
 - sanjo
